@@ -38,7 +38,7 @@ To complete this analysis, the following steps were performed:
 
 ---
 
-## Analysis via Web Application
+## Analysis
 
 The following photo shows the Elbow Curve and scatter plots of the two different data types
 
